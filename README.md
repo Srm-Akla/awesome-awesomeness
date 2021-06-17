@@ -5,7 +5,7 @@ A curated list of amazingly awesome awesomeness.
     - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 
 - Programming Languages
-	- [Ada](https://github.com/ohenley/awesome-ada)	
+	- [Ada(Spark)](https://github.com/ohenley/awesome-ada)	
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
@@ -233,7 +233,9 @@ A curated list of amazingly awesome awesomeness.
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
-	- [Hacking](https://github.com/carpedm20/awesome-hacking)
+	- Hacking
+		- [by @carpedm20](https://github.com/carpedm20/awesome-hacking)
+		- [by @Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Honeypots](https://github.com/paralax/awesome-honeypots)
 	- [Hyper](https://github.com/bnb/awesome-hyper)
